@@ -1,0 +1,4 @@
+cryptography>=46.0.0,<51
+qrcode[pil]>=8.2,<9
+pystray>=0.19.5,<0.20
+
